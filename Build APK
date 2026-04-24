@@ -249,8 +249,7 @@ public class MainActivity extends AppCompatActivity {
         // ── Media ──
         s.setMediaPlaybackRequiresUserGesture(false);
 
-        // ── Layout ──
-        s.setUseWideViewPort(true);
+        // ── Layout 
         s.setLoadWithOverviewMode(true);
 
         // ── Mixed content ──
